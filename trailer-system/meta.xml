@@ -1,0 +1,10 @@
+<meta>
+ <info author="Gangsta" version="1.0" name="Dorse Alma" type="script" />
+    <script src="uyari.lua" type="client" />
+    <script src="lib.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" /> 
+    
+    <file src="files/icons.ttf" />
+	<file src="files/roboto.ttf" />   
+</meta>
